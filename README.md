@@ -1,1 +1,1 @@
-# toggling-boxes
+# Box Class
